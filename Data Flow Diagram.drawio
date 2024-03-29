@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" modified="2024-03-08T17:41:31.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="l9bcP8RCdHb2H8p2Tuze" version="24.0.2" type="device">
+  <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
+    <mxGraphModel dx="-176" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HuonziHca_plZ5X39_4H-44" value="Assign Project" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1330" y="580" width="205" height="104" as="geometry">
+            <mxRectangle x="995" y="190" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-48" value="GroupStudent" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="770" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-62" value="GroupProject" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="770" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.444;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-44" target="HuonziHca_plZ5X39_4H-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.667;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-44" target="HuonziHca_plZ5X39_4H-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-65" value="Insert into" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="598" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-66" value="Update Assignment Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="598" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-67" value="Group Formation" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1330" y="174" width="205" height="104" as="geometry">
+            <mxRectangle x="995" y="190" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-68" value="Group" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="364" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-69" value="GroupStudent" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="364" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.444;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-67" target="HuonziHca_plZ5X39_4H-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.667;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-67" target="HuonziHca_plZ5X39_4H-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-72" value="Insert into" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="192" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-73" value="Insert into" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="192" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-74" target="HuonziHca_plZ5X39_4H-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-74" value="Assign Advisors" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1900" y="86" width="205" height="104" as="geometry">
+            <mxRectangle x="995" y="190" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-76" value="ProjectAdvisor" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1935" y="276" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-83" target="HuonziHca_plZ5X39_4H-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-83" value="Mark Evaluations" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="1930" y="550" width="205" height="104" as="geometry">
+            <mxRectangle x="995" y="190" width="200" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-84" value="GroupEvaluation" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1965" y="740" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-85" target="HuonziHca_plZ5X39_4H-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-85" value="Evaluation" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="577" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-87" value="Input Evaluation Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="538" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-88" value="Take Evaluation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="688" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-89" value="Assign Advisor to Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="214" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1900" y="129" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-90" value="Project" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="104" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-92" value="Input Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1765" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-93" value="Student" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1373" y="50" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.536;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-93" target="HuonziHca_plZ5X39_4H-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-95" value="Input Students" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="112" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HuonziHca_plZ5X39_4H-96" target="HuonziHca_plZ5X39_4H-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-96" value="Project" style="html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;shape=mxgraph.ios7ui.horLines;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="474" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HuonziHca_plZ5X39_4H-97" value="Input Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="538" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
